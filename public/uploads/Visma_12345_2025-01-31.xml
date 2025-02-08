@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="payslip.xsl"?>
+<payslip>
+  <employee>
+    <name>Mohammad Amman</name>
+    <id>12345</id>
+    <department>Finance</department>
+    <company>Visma</company>
+  </employee>
+  <payDetails>
+    <basicPay>5000.00</basicPay>
+    <allowances>1500.00</allowances>
+    <deductions>700.00</deductions>
+    <netPay>5800.00</netPay>
+    <payDate>2025-01-31</payDate>
+  </payDetails>
+</payslip>
